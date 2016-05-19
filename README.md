@@ -1,5 +1,4 @@
 # green045.github.io
-rule
 <html>
 <head>
 <script type="text/javascript">
